@@ -1,7 +1,7 @@
 def luas_segitiga():
-    a = int(input("Masukkan alas segitiga: "))
-    t = int(input("Masukkan tinggi segitiga: "))
-    luas = a * t / 2
+    alas = int(input("Masukkan alas segitiga: "))
+    tinggi = int(input("Masukkan tinggi segitiga: "))
+    luas = alas * tinggi / 2
     print ("Luas segitiga adalah: ", luas)
 
 
